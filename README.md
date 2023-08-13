@@ -1,1 +1,3 @@
-# reto
+primerEstado 🎃
+segundoEstado 🎇
+tercerEstado 🎊
